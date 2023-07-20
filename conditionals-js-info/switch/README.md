@@ -1,0 +1,1 @@
+https://javascript.info/switch#rewrite-the-switch-into-an-if
